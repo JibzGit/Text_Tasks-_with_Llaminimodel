@@ -1,7 +1,7 @@
 langchain
 sentence_transformers
 torch
-sentencepiece
+sentencepiece==0.1.99
 transformers
 accelerate
 chromadb
